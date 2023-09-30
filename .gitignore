@@ -1,0 +1,7 @@
+/.tmp.drivedownload
+/.tmp.driveupload
+/react_cambrian_vibration_old
+node_modules
+react_cambrian_vibration/node_modules
+fe
+be
